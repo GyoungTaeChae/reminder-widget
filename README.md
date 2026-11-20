@@ -60,3 +60,7 @@ systemctl --user enable --now reminder-widget.service
 | `여권 갱신 @2027-01-05` | 2027년 1월 5일 오전 9시 |
 
 `@오늘`, `@내일`, `@모레` 도 쓸 수 있습니다. 시각을 빼면 그날 오전 9시에 알려 줍니다.
+
+## 라이선스
+
+MIT
